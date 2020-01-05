@@ -21,3 +21,14 @@ The WPF version will be checked later.
 
 + MVVMCross 6.4.2 (required on all the projects)
 + Microsoft.UI.Xaml 2.3.191211002 (For UWP apps)
+
+## Required
+
+**Visual Studio 2019 (For simple reasons in the settings)**
+
++ .Net Desktop Development (SDK .NET Framework 4.8)
+> WPF, Windows Forms, Console apps with C#
++ .NET Crossplatform Development with Xamarin
+> Android apps with C#
++ UWP Development (SDK 10.0.18362)
+> UWP apps with C#
